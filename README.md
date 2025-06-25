@@ -34,13 +34,13 @@
 
 ---
 
-## ✅ Conclusion
-
-This email shows multiple red flags such as a spoofed email address, suspicious URL, and threatening language. It is a clear example of a phishing attempt designed to steal user credentials through social engineering.
-
 ## 💡 Concepts Applied
 
 - Phishing Email Analysis
 - Email Spoofing
 - Header Inspection
 - Social Engineering Tactics
+
+## ✅ Conclusion
+
+This email shows multiple red flags such as a spoofed email address, suspicious URL, and threatening language. It is a clear example of a phishing attempt designed to steal user credentials through social engineering.
