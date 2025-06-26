@@ -1,6 +1,6 @@
 # 📧 Phishing Email Analysis Report
 
-## 🔍 Sample Email Content (from `email_sample.txt`)
+## Sample Email Content (from `email_sample.txt`)
 **From:** Apple Support `<security@apple-support.com>`  
 **Subject:** Urgent: Your Apple ID has been locked
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚩 Phishing Indicators Identified
+## Phishing Indicators Identified
 
 1. **Fake Sender Email**: The sender’s domain `@apple-support.com` is not Apple’s official domain.
 2. **Suspicious Link**: URL `http://apple.support-login-verification.com` is a lookalike and not secure (http).
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧪 Tools Used
+##  Tools Used
 
 - MXToolbox Header Analyzer
 - Visual inspection (hovering links, sender details)
@@ -34,13 +34,13 @@
 
 ---
 
-## 💡 Concepts Applied
+##  Concepts Applied
 
 - Phishing Email Analysis
 - Email Spoofing
 - Header Inspection
 - Social Engineering Tactics
 
-## ✅ Conclusion
+##  Conclusion
 
 This email shows multiple red flags such as a spoofed email address, suspicious URL, and threatening language. It is a clear example of a phishing attempt designed to steal user credentials through social engineering.
